@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDSzPQNy152X54gnZw46Udtpze5rIeYT2o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1020788720383</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>iAdarshbegur.Messenger</string>
+	<key>PROJECT_ID</key>
+	<string>messengerios-4113a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messengerios-4113a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1020788720383:ios:070a03e1ed262b7b3542ca</string>
+</dict>
+</plist>
